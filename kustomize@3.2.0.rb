@@ -1,4 +1,4 @@
-class Kustomize < Formula
+class KustomizeAT320 < Formula
   desc "Template-free customization of Kubernetes YAML manifests"
   homepage "https://github.com/kubernetes-sigs/kustomize"
   url "https://github.com/kubernetes-sigs/kustomize.git",
